@@ -1,2 +1,2 @@
 # Project-Module-2-JCDSVL-05-Purwadhika-
-Analisis database northwind dengan fokus analisis tabel employee  sebagai tugas project module 2 program JCDSVL-05 2022
+Northwind database analysis with a focus analysis on employee table as a project module 2 task, program Job connector data science and machine learning 2022 Purwadhika
