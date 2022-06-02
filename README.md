@@ -1,4 +1,4 @@
-# Project-Module-2-JCDSVL-05-Purwadhika-
+# Project-Module-2-JCDSVL-05-Purwadhika
 Northwind database analysis with a focus analysis on employee table as a project module 2 task
 
 In this analysis, we will try to answer business questions such as the following:
